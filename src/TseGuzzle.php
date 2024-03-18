@@ -12,7 +12,7 @@ use Psr\Http\Message\ResponseInterface;
 use Psr\Log\LoggerInterface;
 use RuntimeException;
 
-final class TseGuzzle implements ClientInterface
+class TseGuzzle implements ClientInterface
 {
     protected Client $client;
     /**

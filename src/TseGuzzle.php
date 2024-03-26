@@ -1,6 +1,6 @@
 <?php
 
-namespace Tsetsee\TseGuzzle;
+namespace Lodipay\TseGuzzle;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
